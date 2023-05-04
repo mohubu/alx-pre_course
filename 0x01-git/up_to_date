@@ -1,2 +1,2 @@
-git fetch origin master
+git pull origin master
 git merge origin/master
